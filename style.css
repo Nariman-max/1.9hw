@@ -2,25 +2,26 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid black;
 }
 img{
-    width: 50px;
-    height: 50px;
+    width: 75px;
+    height: 78px;
 }
 .heade{
     display: inline-block;
-    width: 450px;
-    height: 55px;
+    margin-top: 10px;
+    width: 550px;
+    height: 80px;
     
 }
 #brand{
-    margin-left: 200px;
-    margin-top: 100px;
+   text-align: left;
+    margin-left: 300px;
+    
 }
 #phone{
-    margin-left: -5px;
-    margin-top: -10px;
+    padding-right: 10px;
+     padding-top: 45px;
     text-align: right;
 }
 a{
@@ -30,54 +31,106 @@ a{
 li{
     list-style-type: none;
     text-align: center;
+    border: 1px solid black;
 }
 div{
     text-align: center;
+    border: 1px solid black;
+
 }
 .navigat{
     display: inline-block;
-    margin-left: -3px;
-    width: 150px;
-    height: 50px;
-    padding-top: 15px;
+    margin-left: -5;
+    width: 180px;
+    height: 70px;
+    padding-top: 25px;
 }
 #navigat{
-    margin-left: 200px;
+    margin-left: 300px;
 }
 #other{
     display: inline-block;
     margin-top: 10px;
-    margin-left: 200px;
+    margin-left: 300px;
     width: 200px;
     height: 350px;
 }
 .other{
     margin-top: 5px;
-    width: 200px;
-    height: 65px;
+    width: 240px;
+    height: 80px;
     padding-top: 20px;
 }
 main{
     display: inline-block;
-    margin-left: 420px;
-    margin-top: -350px;
-    width: 700px;
-    height: 400px;
+    margin-left: 560px;
+    margin-top: -380px;
 }
 #main{
     display: inline-block;
     padding: 75px;
-    padding: 75px;
-    width: 700px;
-    height: 205px;
+    width: 840px;
+    height: 235px;
     
 }
 .mainbox2{
     display: inline-block;
-    width: 340px;
-    height: 60px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    width: 408px;
+    height: 80px;
 }
-#mainbox2{
+#mainbox2-2{
+    margin-left: 24px;
+}
+h2{
+    margin-top: 10px;
+    text-align: center;
+}
+.mainbox3{
     display: inline-block;
-    padding: 10px
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 270px;
+    height: 150px;
+}
+#mainbox3-1{
+    margin-left: 0;
+}
+footer{
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 300px;
+    padding-top: 15px;
+    width: 1100px;
+    height: 80px;
+    border: 1px solid black;
+}
+.footer{
+    display: inline-block;
+    padding-top: 10px;
+    width: 362px;
+    height: 50px;
+}
+#footer1{
+    text-align: left;
+    padding-left: 10px;
+}
+#footer2{
+    padding-top: 25px;
+}
+#footer3{
+    text-align: right;
+    padding-top: 25px;
+    padding-right: 10px;
+}
+.butten{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+.imgbut{
+    width: 25px;
+    height: 25px;
 }
